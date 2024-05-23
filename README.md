@@ -34,8 +34,8 @@
    * 으뜸 머신러닝 github 저장소 : https://github.com/dknife/ML
    
 <p align="center">
-  <img src="image/Prime_Python_book.png" width=200px>
-  <img src="image/Prime_ML.jpg" width=200px>
+  <img src="https://github.com/dongupak/DataSciPy-1st_edition/blob/master/image/Prime_Python_book.png" width=200px>
+  <img src="https://github.com/dongupak/DataSciPy-1st_edition/blob/master/image/Prime_ML.jpg?raw=true" width=200px>
 </p>
 
 ***
