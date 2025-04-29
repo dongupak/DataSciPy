@@ -44,7 +44,7 @@
 : "따라하며 배우는 파이썬과 데이터 과학" 책의 목차를 제공합니다.
 
 # 책의 오류 및 오탈자
-* [오류](https://github.com/dongupak/DataSciPy/blob/master/errata-ver1.md)
+* [오류](https://github.com/dongupak/DataSciPy/blob/master/errata/README.md)
 : "따라하며 배우는 파이썬과 데이터 과학" 책의 오탈자 목록을 제공합니다.
 책의 오류는 다음 이메일로 알려주십시오.
 ```
